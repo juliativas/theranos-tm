@@ -1,0 +1,668 @@
+High-valued biotech start-up Theranos amped up its association with high-ranking government officials Thursday as Vice President Joe Biden joined a select group of healthcare industry leaders at the company's lab in Newark, Calif.
+Theranos was started a decade ago by Elizabeth Holmes, who envisioned a new blood-testing process that requires less blood (drops compared to vials) at lower costs (fertility panels run $35, cholesterol checks for $3).
+The company recently won Food and Drug Administration approval for its lab work as well as its test for the herpes virus. Theranos also helped push an Arizona bill into law on July 3 that allows patients to order blood tests without doctor approval. The FDA also granted the company a waiver that would enable it to create a suite of point-of-care products, akin to the way home pregnancy tests are administered by consumers. Most of Theranos' Wellness Center outlets are in Arizona, with one near its headquarters in Palo Alto, Calif., and another in central Pennsylvania.
+“Talk about being inspired," Biden said, according to statements provided by Theranos. "This is inspiration. It is amazing to me, Elizabeth, what you’ve been able to do. What’s most impressive to me is you’re not only making these lab tests more accessible ... empowering people whether they live in the barrio or a mansion, putting them in a position to help take control of their own health.”
+
+During his visit to the facility, which is typically off limits to the press and outsiders, Biden met with Theranos employees and health leaders such as Amir Rubin, president of Stanford Hospitals (Holmes, 31, dropped out of Stanford to start Theranos), Gary St. Hilaire, CEO of Capital Blue Cross, and Darin Gordon, director of TennCare, Tennessee's state Medicaid program.
+
+Holmes told the assembled group that she "convened this roundtable as a call to action. Leaders in health must collectively come together because that’s the only way that we’ll change this health care paradigm from one focused on reactive care to one focused on preventive care.  Nobody knows that as well as the vice president, who has spent his entire career taking bold action to improve people’s lives.”
+Despite her youth, Holmes has had phenomenal success attracting high-powered political veterans to her cause. Among Theranos' board members are former secretaries of state Henry Kissinger and George Shultz, former defense secretary William Perry and former senators Sam Nunn and Bill Frist. To date, Theranos has raised $400 million in capital, resulting in a valuation of $9 billion. Holmes owns half the company.
+
+
+When Theranos chief executive Elizabeth Holmes announced Thursday that her company's finger-stick blood test had won clearance from the Food and Drug Administration, the outcome of the review wasn't the news. It was that she had gone to the FDA in the first place.
+Holmes's company, a Silicon Valley darling estimated to be worth $9 billion, has been poised to upend the blood-testing business since Theranos began offering its tests to the public in 2013. With just a few drops of blood, dozens of disease and conditions can reportedly be scanned for near instantaneously. But for a company that has received so much attention, there has been surprisingly little information about how its technology works, and the company has maintained -- and still maintains -- that it is not required to seek regulatory approval for its products.
+
+Competitors and others in the medical community had criticized the company for its lack of transparency, but it wasn't until this February when the issue became a public relations crisis. That's when John Ioannidis, a professor at Stanford University's medical school, singled out the company for what he called "stealth research."
+
+He added:
+
+Theranos is just one example among many for which major efforts and major claims about biomedical progress seem to be happening outside the peer-reviewed scientific literature. Many of these efforts and claims have a biotechnology flavor, and the people involved often include a blend of engineers, physical scientists, and venture capitalists. The main motive appears to be to develop products and services, rather than report new discoveries as research scholarship. Products, services, and profit appear to be more important than scientific publications.
+Ioannidis is known throughout the world for his work on the credibility of medical studies and his research is regularly shared via e-mail among Silicon Valley's elite. In a 2010 article, the Atlantic described him as perhaps "one of the most influential scientists alive."
+
+He and his team have shown, again and again, and in many different ways, that much of what biomedical researchers conclude in published studies—conclusions that doctors keep in mind when they prescribe antibiotics or blood-pressure medication, or when they advise us to consume more fiber or less meat, or when they recommend surgery for heart disease or back pain—is misleading, exaggerated, and often flat-out wrong. He charges that as much as 90 percent of the published medical information that doctors rely on is flawed. His work has been widely accepted by the medical community; it has been published in the field’s top journals, where it is heavily cited; and he is a big draw at conferences.
+
+In an interview last year with The Washington Post, venture capitalist Vinod Khosla said he had been following Ioannidis's work for well over a decade, before the professor had made his way to the United States and was still in Greece at the University of Ioannina medical school. Khosla, a Sun Microsystems co-founder who has invested many millions in health-care startups, credits Ioannidis for inspiring his work in the sector.
+
+"What has influenced me is Dr. Ioannidis on how arbitrary the state of medicine is today and how arbitrary the results of medical studies," Khosla said.
+
+On Thursday, Ioannidis said he hoped Theranos's application to the FDA would encourage other companies to do the same. "However, I still believe that it is important also to have the full information available in the scientific community through peer-reviewed publications on methods and results, with access of other scientists to the raw data and protocols," he said an an e-mail 
+
+Holmes said the company had voluntarily decided to go through the FDA process because Theranos is "deeply committed to ensuring that our systems and all of our laboratory developed tests are of the highest quality, and that patients and their physicians have access to the most accurate information about their health."
+
+As part of its approval process, the company is making public some details of how an assay to detect herpes simplex virus (HSV-1) works. Theranos said it has submitted information about other tests to the FDA and hopes they will also receive approval.
+
+A Theranos spokesperson in a statement said: "We have been committed to, engaged with and publicly advocating for the FDA – the gold standard for review of performance and accuracy of lab tests -- since prior to launching our consumer facing laboratory services in 2013.
+
+"There is no higher quality or more comprehensive standard for lab testing than FDA’s. We believe strongly and have been publicly advocating that these standards need to begin to be embraced for all laboratory testing."
+
+Elizabeth Holmes, the world’s youngest female billionaire, and her company, Palo Alto-based Theranos, have seized the public imagination with a vision of replacing traditional blood tests with a cheaper, faster, and less painful alternative. But Theranos’ technology remains shrouded in mystery, even controversy, as the company that aims to replace traditional blood tests with mere finger pricks begins to slowly expand from its initial footholds in California and Arizona.
+
+Theranos is offering tests for less money, and at a faster turnaround time, than giants like Laboratory Corp. of America or Quest Diagnostics. It says that it can analyze blood tests that used to require using a needle and syringe to draw a vial of blood with just a drop taken from a pricked finger. The tests will be available in drug stores – there is already a partnership with Walgreens -- and will be analyzed at nearby laboratory facilities that use proprietary technology. More groups have signed on, including, this morning, an insurer focused on the Medicaid market called AmeriHealth Caritas.
+
+How much is real and how much is hype? I’m not going to provide a final answer here. I still have no idea how Theranos’ technology works. But I'm more confident than I was before after spending a day talking to the company's partners.
+Here are a few reasons for that confidence: The Food and Drug Administration has just posted a detailed explanation of its decision to clear Theranos’ one approved test, and, to my eyes, it does give some validation of their technology. Yesterday, I spent 50 minutes on the phone with Holmes herself and another hour talking to three of her partners: Capital Blue Cross Pennsylvania, a large insurance plan there; the Carlos Slim Foundation, which is working with Theranos in Mexico; and AmeriHealth Caritas, the insurer focused on Medicaid plans that is pairing up with Theranos today. They were thoughtful about what they were buying and its potential to change the way they did things.
+
+I want it to all be true, because Holmes' moral challenges to the way health care works now are so obvious and compelling. Take this, her stance on lab industry pricing practices:
+
+"Someone in need comes to you and, because they don’t have the right kind of insurance that can allow the price of these lab tests to be low, you charge them thousands of dollars for a lab test? There’s something wrong with that. We believe very strongly that these tests need to be affordable, and they need to be operator consistent, with transparent prices, and that needs to happen in a way that an average person can afford them."
+
+Everybody who's ever gotten a blood test probably agrees with that. Here is what I learned yesterday.
+
+There’s a lot of skepticism about Theranos. Michael Cherny, an analyst at ISI Evercore, an investment bank, wrote in a recent note to investors:
+
+What we consistently hear about Theranos from people in the field (people with many more degrees than I have) is that the reason for the secrecy is that there is nothing THAT proprietary about the technology (their words, not ours). In a session at the May Executive War College conference, one clinician noted that the "only thing Theranos has revolutionized is pricing transparency and a great PR campaign.”
+
+A recent opinion piece in Clinical Chemistry and Laboratory Medicine, a scientific journal, asserted that “most of the company’s claims are exaggerated.” The author, Eleftherios P. Diamandis of Mount Sinai Hospital in Toronto, argued that Theranos likely has few cost or speed advantages over current technologies and that, without more robust testing, “Theranos technology’s quality and robustness will remain in question.”
+
+When critics say that Theranos should publish more data, Holmes responds that she is doing something better: getting approval from the Food and Drug Administration for 120 different Theranos tests. This is not standard practice in the industry.
+
+Many blood tests are actually not FDA approved, because tests that are developed by the lab that uses them have been exempt from many regulations. Holmes argues that FDA approval is a much higher hurdle than simply publishing in a medical journal. It's great that Theranos is doing this.
+
+That said, Theranos has a tendency to overstate what we can know from its single FDA approval, granted earlier this month. The approval is for a single test – for herpes simplex 1, which causes cold sores and, less often, genital sores. Theranos tends to present it as a validation for its technology – one press release says simply that the company “received clearance of its lab technology from the FDA” – instead of emphasizing that this is an approval for using that technology for detecting herpes virus. That’s an important distinction: every test will require its own approval.
+
+But the FDA has just made public its decision letter to Theranos and a far more detailed memo around the agency’s thinking. The 29-page memo doesn’t explain how the Theranos system works, but does compare samples on the existing technology and using Theranos’ new technology. Not only are the test results substantially the same, but Theranos’ device is able to replace a blood draw with just a drop of blood, as advertised.
+
+Holmes agrees that her company’s speed and cost is based on logistics as well as technology. Theranos has started offering tests that it can’t yet integrate into its systems, using full blood draws. It still charges at most 50% of what Medicare allows, sometimes losing money on the tests. If big laboratory companies really have equally low chemical costs, why are their tests so expensive?
+
+“Nobody else seems to be interested in offering lab tests for less than Medicare’s reimbursement rate!” says Holmes.
+
+Testing the blood test
+
+Executives at Capital Blue Cross Pennsylvania, a health insurer that partnered with Theranos on July 8, seemed to have done the most thorough job vetting the Theranos technology among those I spoke to yesterday.
+
+Chief Executive Gary D. St. Hilaire said that he and his team had been watching Theranos closely for four years, since a venture capital fund they participate in with other Blue Cross/Blue Shield insurers invested in the company.
+
+“Our folks have spent quite a bit of time out at their company headquarters,” St. Hilaire says. “We have tremendous confidence in the team and certainly have had that technology demonstrated to us in more than one or two ways.” He adds that his confidence in Theranos was built long before FDA approval.
+
+Aji Abraham, a senior vice president at Capital, says that he went so far as to get tested using Theranos himself and compare the results to a recent blood test. Neither he nor his doctor noticed any significant differences. Abraham says he can’t detail what formal tests he put Theranos through because of patient privacy law.
+
+Right now, Capital Blue Cross is using Theranos in addition to other testing providers, not instead of them. But Hilaire still says he expects the deal to save money, both because the tests will be cheaper and because more patients will get them. Something like half of blood tests that doctors prescribe never happen, which can make patients less healthy and more expensive in the long run.
+
+Theranos has promised to build one of its labs near Capital Blue Cross's new drug store, where a Theranos testing center is currently up and running. Until then, samples are being flown across the country to California for testing. Hilaire says that results are still coming back in 24 to 48 hours – faster than he might expect for nearby laboratories Capital Blue Cross uses.
+
+Mexican effort
+
+Ricardo Mujica Rosales, the executive director of the Carlos Slim Foundation, was also drawn by the promise of lower costs. The Slim Foundation is working with front-line clinics across Mexico to try to provide blood tests for cholesterol, kidney proteins, and other lab results to 1 million people as part of an effort to battle health problems caused by obesity. Some of those tests will now happen on Theranos equipment.
+
+“We’ll be able to do this in a much more efficient way,” Rosales says. “It’s easier to do, we do it at a lower cost, and we give the results in a faster way than we’re currently doing.” However, the Slim Foundation hasn’t done much to put Theranos’ technology through its paces. “We trust what they’re doing,” Rosales says.
+
+Building lots of Theranos testing centers in Mexico would seem a huge effort for a company that is trying to gain footholds in several U.S. states. But Holmes says that the project will require a far more limited array of tests for these patients, and will therefore be cheaper and easier to manage.
+
+Medicaid patients
+
+Usually, patients using Medicaid, the U.S. government’s system for getting health insurance to the poor, are the last ones to get a new technology. Not so with Theranos: the company is announcing this morning a partnership with AmeriHealth Caritas, a for-profit company that administers Medicaid health plans. AmeriHealth is owned by two non-profit Blue Cross/Blue Shield Plans and covers some 7 million people.
+
+Paul Tufano, AmeriHealth’s CEO, says he reached out to Holmes after reading about her in the press. He saw not so much an opportunity to cut laboratory costs as a way to involve Medicaid patients, who he says often come into the healthcare system only through the emergency room, with a new, and unthreatening, way to get their laboratory results.
+
+“It’s the prick of a needle instead of a full blood draw,” says Tufano. “It’s also walking into a retail establishment they may already be used to. It’s a simple way to change the whole way the Medicaid population relates to the healthcare system.”
+
+He also says that he’s confident that all the noise about Theranos tests is just that – that the tests are quite accurate.
+
+“Our folks have had a significant amount of interaction with Theranos,” Tufano says, “and we wouldn’t make something available for our members if we didn’t feel comfortable in the technology underlying it.”
+
+There’s not yet a timeline for the AmeriHealth rollout.
+
+Does any of this mean for sure that Theranos is going to revolutionize the way we get blood tests? No. Revolutions are hard. And it would be nice to have more information on what is going on inside Theranos' black box. But what we can see is promising. And how many other hot startups are actually promising to cut healthcare costs? I want to know more, but what I heard yesterday made me more confident that Holmes is running  a real company that we all need to continue to watch.
+
+America's youngest self-made female billionaire is 30 years old and a college dropout. The company she founded has the potential to change health care for millions of Americans.
+Elizabeth Holmes left Stanford University at 19 with a plan to start her own company. For money, she cashed out the funds her parents had saved for tuition. Now, she counts billionaire Larry Ellison as an investor and has former secretaries of state on her board.
+
+"I think a lot of young people have incredible ideas and incredible insights, but sometimes they wait before they go give their life to something," she said. "What I did was just to start a little earlier."
+
+Holmes, through her company Theranos, has taken on the $76 billion laboratory-diagnostic industry as her target. It's an industry that was just waiting to be disrupted, since blood testing has not changed since the modern clinical lab emerged in the 1960s.
+
+Her idea: No more vials. No more tourniquets. Just a pinprick of blood gathered in a container smaller than a dime. And up to 70 lab tests can be run on one drop of blood in less time than traditional tests.
+
+Holmes thinks that ease of testing will make people more likely to go through with blood tests and help with earlier detection of illness, something she's passionate about. Her father, Christian Holmes IV, has spent a career working in humanitarian assistance, including several executive positions with USAID.
+
+"My father worked in disaster relief and so I grew up in a house that had pictures of all these little children in really tough parts of the world," she said. "I was absolutely convinced that was what I was going to do. Then when I started realizing that a company could be a vehicle for having very direct impact over a change that you are trying to make, I started thinking about the concept of what could I build that could impact a lot of peoples' lives?"
+
+The solution she's built is the Theranos Wellness Center, which has calming music, glossy magazines and offers a blood test with a relatively painless prick. Holmes' ultimate goal is to have one center within five miles of any American (or one mile for folks in big cities).
+
+Theranos teamed up with Walgreens pharmacies to help make that happen, and the centers are built within existing Walgreens stores.
+
+There are currently centers in California and Arizona, with plans for a gradual rollout into 8,200 neighborhood Walgreens across the country.
+
+"It's bringing the testing closer to where people live and also changing the hours of operation, so that on a weekend or late at night you can get access to these tests. You don't have to leave work, leave your job during the day," Holmes said.
+
+Holmes is also a proponent of transparency in health care, so Theranos lists the price of all of its nearly 1,000 tests on its website. Often the costs are a fraction of what they would be through standard reimbursement rates.
+
+According to American Clinical Laboratory Association, more than 7 billion lab tests are performed in the U.S. annually and lab results dictate 80% of clinical decisions. Far too often, the cost of laboratory tests and the fear of having a needle jabbed into one's arm deters patients from getting the necessary tests.
+
+"Forty to sixty percent of Americans today are not compliant with even the basic tests that their physicians give them when they do see them, because often they can't afford it, or they are scared of needles," Holmes said.
+
+She feels the same way about needles.
+
+"I really believe that if we were from another planet and we sat down to put our heads together on torture experiments, the concept of sticking a needle into someone and sucking their blood out would probably qualify as a pretty good one," she said.
+
+The next time you get a blood test, you might not have to go to the doctor and watch vials of blood fill up as the precious fluid is drawn from your arm.
+No more wondering to yourself, "Ah, how much more can they take before I pass out?"
+
+Instead you might be able to walk into a Walgreens pharmacy for a reportedly painless fingerprick that will draw just a tiny drop of blood, thanks to Elizabeth Holmes, 30, the youngest woman and third-youngest billionaire on Forbes' newly released annual ranking of the 400 richest Americans.
+
+Revolutionizing the blood test is a golden idea.
+
+Because of new testing methods developed by Holmes' startup Theranos, that lone drop can now yield a ton of information.
+
+The company can run hundreds of tests on a drop of blood far more quickly than could be done with whole vials in the past — and it costs a lot less.
+
+Holmes dropped out of Stanford at 19 to found what would become Theranos after deciding that her tuition money could be better put to use by transforming healthcare.
+
+Traditional blood testing is shockingly difficult and expensive for a tool that's used so frequently. It also hasn't changed since the 1960s.
+
+It's done in hospitals and doctors' offices. Vials of blood have to be sent out and tested, which can take weeks using traditional methods and is prone to human error. And, of course, sticking a needle in someone's arm scares some people enough that they avoid getting blood drawn, even when it could reveal lifesaving information.
+
+Holmes recognized that process was ripe for disruption.
+
+Holmes dropped out of Stanford at 19 to found what would become Theranos after deciding that her tuition money could be better put to use by transforming healthcare.
+
+Traditional blood testing is shockingly difficult and expensive for a tool that's used so frequently. It also hasn't changed since the 1960s.
+
+It's done in hospitals and doctors' offices. Vials of blood have to be sent out and tested, which can take weeks using traditional methods and is prone to human error. And, of course, sticking a needle in someone's arm scares some people enough that they avoid getting blood drawn, even when it could reveal lifesaving information.
+
+Holmes recognized that process was ripe for disruption.
+
+One closely guarded secret is what MedCityNews calls "the most interesting part of [the Theranos] story": how exactly the technology behind its blood test works. The company's methods are protected by more than a dozen patents filed as far back as 2004 and as recently as last week.
+
+In an interview with Wired, Holmes hinted at some of the key ideas behind Theranos.
+
+"We had to develop ... methodologies that would make it possible to accelerate results," she said. "In the case of a virus or bacteria, traditionally tested using a culture, we measure the DNA of the pathogen instead so we can report results much faster."
+
+While we can't yet assess independently how well that method works when compared with traditional blood tests, it already seems to be upending the old way of doing things.
+
+Holmes told Medscape that she targeted lab medicine because it drives about 80% of clinical decisions made by doctors.
+
+By zeroing in on the inefficiencies of that system, the Theranos approach completely revolutionizes it.
+
+
+The new tests can be done without going to the doctor, which saves both money and time. Most results are available in about four hours, which means that you could swing by a pharmacy and have a test done the day before a doctor's visit, and then the results would be available for the physician.
+
+Quick tests that can be done at any time are already a total change, but the amount of data the company can get from a single drop of blood is amazing.
+
+Blood samples have traditionally been used for one test, but if a follow-up was needed, another sample had to be drawn and sent out — making it less likely that someone would get care. The Theranos approach means the same drop can be used for dozens of different tests.
+
+It's cheap, too. One common criticism of the healthcare system is that the pricing structure is a confusing labyrinth that makes it impossible to know how much anything costs. Theranos lists its prices online, and they're impressive.
+
+afternoon in early September, Elizabeth Holmes took the stage at tedmed, at the Palace of Fine Arts, in San Francisco, to talk about blood. tedmed, a part of the Technology, Entertainment, and Design enterprise, is an annual conference devoted to health care; its speakers span a range of inquiry from Craig Venter, the genomic scientist, discussing synthetic life, to Ozzy Osbourne discussing his decision to get his entire genome sequenced. The phrases “disruptive technology” and “the future of medicine” come up a lot.
+
+Holmes, who is thirty, is the C.E.O. of Theranos, a Silicon Valley company that is working to upend the lucrative business of blood testing. Blood analysis is integral to medicine. When your physician wants to check some aspect of your health, such as your cholesterol or glucose levels, or look for indications of kidney or liver problems, a blood test is often required. This typically involves a long needle and several blood-filled vials, which are sent to a lab for analysis. Altogether, diagnostic lab testing, including testing done by the two dominant lab companies, Quest and Laboratory Corporation of America, generates seventy-five billion dollars a year in revenue.
+
+Holmes told the audience that blood testing can be done more quickly, conveniently, and inexpensively, and that lives can be saved as a consequence. She was wearing her daily uniform—a black suit and a black cotton turtleneck, reminiscent of Steve Jobs—and had pinned her hair into an unruly bun. As she spoke, she paced slowly, her eyes rarely blinking, her hands clasped at her waist. Holmes started Theranos in 2003, when she was nineteen; she dropped out of Stanford the following year. Since then, she told the audience, the company has developed blood tests that can help detect dozens of medical conditions, from high cholesterol to cancer, based on a drop or two of blood drawn with a pinprick from your finger. Theranos is working to make its testing available to several hospital systems and is in advanced discussions with the Cleveland Clinic. It has also opened centers in forty-one Walgreens pharmacies, with plans to open thousands more. If you show the pharmacist your I.D., your insurance card, and a doctor’s note, you can have your blood drawn right there. (The sample is then sent to a Theranos lab.) From that one sample, Holmes said, several tests can be run—all less expensive than standard blood tests, sometimes as much as ninety per cent below the rates that Medicare sets. A typical lab test for cholesterol can cost fifty dollars or more; the Theranos test at Walgreens costs two dollars and ninety-nine cents.
+
+In conversation, Holmes speaks in a near-whisper; onstage, her voice drops an octave and takes on a formal instructional cadence. The tedmed crowd listened intently as she spelled out what she sees as the shortcomings of the existing blood-testing business. The tests are too costly, are available at inconvenient times or places, and involve unpleasant syringes. Holmes has an aversion to needles, and her mother and her grandmother fainted at the sight of them and at the sight of blood. Recently, she told me, “I really believe that if we were from a foreign planet and we were sitting here and said, ‘O.K., let’s brainstorm on torture experiments,’ the concept of sticking a needle into someone and sucking blood out slowly, while the person watches, probably qualifies.”
+
+Holmes thinks that getting a blood test should instead be a “wonderful” experience, and the aim of Theranos is to lower the barriers. She told the crowd that between forty and sixty per cent of people who are ordered by their doctor to get a blood test do not. Diabetes, sexually transmitted diseases, and other common medical conditions could be diagnosed and treated earlier if the tests were less onerous and more accessible, she said. “We see a world in which no one ever has to say, ‘If only I’d known sooner.’ A world in which no one ever has to say goodbye too soon.”
+
+Theranos, which is privately held, is both a hardware company and a medical company, and for many years it has operated with a stealth common to many Silicon Valley startups. “For a long time, I couldn’t even tell my wife what I was working on,” Channing Robertson, a chemical-engineering professor at Stanford and the company’s first board member, told me. In recent months, Holmes has been giving similar versions of her tedmed presentation in talks and interviews around the country. Investors have valued the company at more than nine billion dollars, comparable to the two major diagnostic labs. Holmes owns more than fifty per cent of the company; she was profiled last spring in Fortune and subsequently featured in Forbes as “the youngest self-made female billionaire in the world.” The board of her company is stocked with prominent former government officials, including George P. Shultz, Henry Kissinger, Sam Nunn, and William H. Foege, the former director of the Centers for Disease Control and Prevention. Dr. Delos M. Cosgrove, the C.E.O. and president of the Cleveland Clinic, is an avid supporter. “I think it’s potentially a breakthrough company,” he told me. “It represents a major change in how we deliver health care.”
+
+The company’s rise comes at a time when consumers are increasingly eager for access to their personal data. The plummeting costs of DNA-sequencing technology have made it possible for companies such as 23andme to provide individuals with their genetic information directly, rather than through doctors, empowering nerdy customers and self-motivated patients. Smartphone apps let users track their heart rates, their sleep cycles, and the number of steps they’ve taken, and share the data with a doctor or with friends. In her talk, Holmes said, “My own life’s work in building Theranos is to redefine the paradigm of diagnosis away from one in which people have to present with a symptom in order to get access to information about their bodies to one in which every person, no matter how much money they have or where they live, has access to actionable health information at the time it matters.” Cosgrove predicts that blood tests for many common health issues, including high cholesterol and diabetes, will be initiated by patients as well as by doctors. “The CVSs and the Walgreens and the Walmarts of the world are going to be taking a lot of things that currently go to primary-care physicians,” he said. “The impact of that on our industry will be enormous.”
+
+But unfiltered medical data aren’t a pure virtue. Last year, the U.S. Food and Drug Administration barred 23andme from disseminating some information out of concern that consumers might misunderstand or misuse it. Some observers are troubled by Theranos’s secrecy; its blood tests may well turn out to be groundbreaking, but the company has published little data in peer-reviewed journals describing how its devices work or attesting to the quality of the results. “It’s trying to apply the Steve Jobs way of keeping everything secret until the iPhone was released,” Lakshman Ramamurthy, a molecular biologist and a former associate director at the F.D.A., told me. “But a health test is more consequential than a consumer product. It needs to be clinically valid and provide useful information.”
+
+Holmes counters that Theranos is only trying to protect itself from competitors while it tries to do something unique. “There isn’t a company that does what we do,” she told me. “We’re creating a new space. We’re in a market for people who don’t like having a needle stuck in their arm.”
+
+The day after her tedmed talk, I met with Holmes in a conference room at the Theranos headquarters, a single-story building two blocks from the Stanford campus. (In November, Theranos moved its main offices to a larger space a few miles away.) Her home is a two-bedroom condo in Palo Alto, and she lives an austere life. Although she can quote Jane Austen by heart, she no longer devotes time to novels or friends, doesn’t date, doesn’t own a television, and hasn’t taken a vacation in ten years. Her refrigerator is all but empty, as she eats most of her meals at the office. She is a vegan, and several times a day she drinks a pulverized concoction of cucumber, parsley, kale, spinach, romaine lettuce, and celery.
+
+Growing up, Holmes was in constant motion. Her father, Chris, worked for government agencies, including, for much of his career, the U.S. Agency for International Development and the State Department, often travelling abroad, overseeing relief and disease-eradication efforts in developing nations; today, he is the global water coördinator for U.S.A.I.D. Her mother, Noel, worked for nearly a decade as a foreign-policy and defense aide on Capitol Hill, until Elizabeth and her brother Christian, two years younger, were born. The family moved several times, which meant there was little opportunity to develop lasting friendships. Holmes describes herself as a happy loner, collecting insects and fishing with her father.
+
+“I was probably, definitely, not normal,” she said. “I was reading ‘Moby-Dick’ from start to finish when I was about nine. I read a ton of books. I still have a notebook with a complete design for a time machine that I designed when I must have been, like, seven. The wonderful thing about the way I was raised is that no one ever told me that I couldn’t do those things.”
+
+Chris Holmes’s great-grandfather Christian Holmes emigrated from Denmark, studied engineering, settled in Cincinnati, and became a physician. When Elizabeth was eight, she was given a tour of the local hospital where he worked and which was named in his honor. He had married the daughter of a patient, Charles Fleischmann, who pioneered packaged yeast and built a baking empire around it. (A nephew, Raoul Fleischmann, started this magazine in 1925, with Harold Ross.) Not all of Fleischmann’s children shared his entrepreneurial drive, and this was a common subject of conversation in the Holmes household. “I grew up with those stories about greatness,” she said, “and about people deciding not to spend their lives on something purposeful, and what happens to them when they make that choice—the impact on character and quality of life.”
+
+In 1993, when Elizabeth was nine, her father took a job in Houston, as executive assistant to the C.E.O. of Tenneco, which was then a manufacturing and energy conglomerate. She knew that her father felt guilty for uprooting the family, so she wrote a letter to console him: “What I really want out of life is to discover something new, something that mankind didn’t know was possible to do.” She reassured him that Texas suited her, because “it’s big on science.”
+
+For several years in the nineteen-eighties, Chris Holmes spent two weeks a month in China, helping American companies invest in large-scale development projects. Soon after the family moved to Houston, Elizabeth started studying Mandarin; by the summer following her sophomore year of high school, she was intent on taking summer classes in Mandarin at Stanford. She repeatedly called the admissions office for information, only to be told, each time, that the program did not enroll high-school students. One day, her father recalls, the head of the program became so annoyed that he grabbed the phone from the employee who was talking to Holmes. “You’ve been calling constantly,” he told her. “I just can’t take it anymore. I’m going to give you the test right now!” He asked questions in Mandarin; she answered fluently, and he accepted her on the spot. She completed three years of college Mandarin while still in high school.
+
+In 2001, in her senior year, Holmes applied to Stanford, was accepted, and then was named a President’s Scholar, which came with a small stipend to select her own research project. Her parents sent her off with a copy of Marcus Aurelius’ “Meditations,” her father said, “to convey to her: Live a purposeful life.” Holmes elected to study chemical engineering. She was drawn to the work of Channing Robertson, the chemical engineer and, at the time, a dean at the engineering school. Robertson is seventy-one and fit, with thinning hair and a relaxed smile; I visited him in his home on campus. Holmes’s first class with him was a seminar on devices designed to control the release of drugs into the human body. One day, in her freshman year, Robertson said, she came to his office to ask if she could work in his lab with the Ph.D. students. He hesitated, but she persisted and he gave in. At the end of the spring term, she told him that she planned to spend the summer working at the Genome Institute, in Singapore. He warned her that prospective students had to speak Mandarin.
+
+“I’m fluent in Mandarin,” she said.
+
+“I’m thinking, What’s next? She’s already coming into the research group meetings at the end of her freshman year with my Ph.D. students. I find myself listening to her more than to them about the next experiments to be done and the progress that’s been made. I realized she’s different.”
+
+summer, at the Genome Institute, Holmes worked on testing for severe acute respiratory syndrome, or sars, an often fatal virus that had broken out in China. Testing was done in the traditional manner, by collecting blood samples with syringes and mucus with nasal swabs. These methods could detect who was infected, but a separate system was needed to dispense medication, and still another system to monitor results. Holmes questioned the approach. At Stanford, she had been exploring what has become known as lab-on-a-chip technology, which allows multiple measurements to be taken from tiny amounts of liquid on a single microchip. “With the type of engineering work and systems I had been focussing on at Stanford, it was quite clear that there were much better ways to do it,” she said.
+
+Before returning to Stanford, Holmes conceived of a way to perform multiple tests at once, using the same drop of blood, and to wirelessly deliver the resulting information to a doctor. That summer, she filed a patent for the idea; it was ultimately approved, in November of 2007. Once back on campus, she went to see Robertson in his office and announced that she wanted to start a company. Robertson was impressed by the idea but urged her to at least consider finishing her degree first.
+
+“Why?” she responded. “I know what I want to do.”
+
+Holmes was consumed by the idea of developing a company. “I got to a point where I was enrolled in all these courses, and my parents were spending all this money, and I wasn’t going to any of them,” she said. “I was doing this full time.” Her parents allowed her to take the money they had set aside for tuition and use it to seed her company. In March, 2004, she dropped out of Stanford; one month later, she incorporated Theranos (the name is a combination of “therapy” and “diagnosis”). She persuaded Robertson to spend one day a week as a technical adviser to the company and to serve as her first board member. Eventually, he retired from his tenured position, and began working at Theranos full time.
+
+
+Robertson introduced Holmes to several venture capitalists. She insisted that they abide by her terms, which included an understanding that she would retain control and pour the profits back into the company. By December of 2004, she had raised six million dollars from an assortment of investors. As she and the chemists and engineers dug deeper, she became convinced that they could accomplish five objectives: extract blood without syringes, make a diagnosis from a few drops of blood, automate the tests to minimize human error, do the test and get the results more quickly, and do this more economically.
+
+A key to the company’s success was the hiring of Sunny Balwani, a software engineer, now forty-nine, whom Holmes had met in Beijing the summer after her senior year of high school. At the time, he was getting an M.B.A. from Berkeley. He had worked at Lotus and at Microsoft and been a successful entrepreneur, and in 2004 he began graduate studies in computer science at Stanford. He and Holmes spoke often, and they shared a belief that software, not just chemistry or biology, mattered. If Theranos was going to be able to analyze a few drops of blood, engineers would have to develop the software to do it. In 2009, Balwani joined as C.O.O. and president. “Our platform is about automation,” he says. “We have automated the process from start to finish.”
+
+has managed to keep its technology a secret for much of its decade of existence in part because it occupies a regulatory gray area. Most other diagnostic labs, including Quest and Laboratory Corporation of America, perform blood tests on equipment that they buy from outside manufacturers, like Siemens and Roche Diagnostics. Before those devices can be sold, they must be approved by the F.D.A., a process that makes their tests’ performances more visible to the public. But, since Theranos manufactures its own testing equipment, the F.D.A. doesn’t need to approve it, as long as the company doesn’t sell it or move it out of its labs. Holmes said that the company has long resisted discussing how its technology works or how it makes money in order to avoid tipping off potential competitors.
+
+The company employs seven hundred people and, in addition to its headquarters, has a two-hundred-and-sixty-five-thousand-square-foot facility, in Newark, California, that manufactures the blood-testing devices. Holmes says that Theranos has a positive cash flow; it is clearly expanding. For many years, it has earned income from large pharmaceutical companies, including Pfizer and GlaxoSmithKline, which use its tests when they are conducting clinical trials on new drugs. It also earns revenue from the “wellness centers” that it has set up in Walgreens stores, its hospital work, and the U.S. military, although Holmes would not discuss the company’s arrangments with the latter.
+
+In 2013, Theranos announced a “long-term partnership” with Walgreens that will eventually establish its wellness centers in most of the eighty-two hundred Walgreens stores. The Walgreens in Palo Alto has one, as do forty Walgreens pharmacies in Phoenix. Holmes envisages wellness centers in most Walgreens and Duane Reade stores, which would put Theranos “within five miles of every American.” Theranos also could sign up the rival drugstore chain CVS, which has seventy-eight hundred outlets.
+
+One morning, I went to the Palo Alto Walgreens to get my blood tested. A trained phlebotomist wrapped my finger in a warming sleeve to help the blood flow and then swabbed it with alcohol. Then, with a slight pinch from a small, square lancet containing a pricking pin, she drew two drops of blood, which she siphoned into a dime-size container. This took about two minutes. The container, marked with a bar code, was placed in a refrigerated box to be picked up and delivered to a Theranos lab a couple of miles away; the box pickup and return takes place three times a day.
+
+The lab is a large, labyrinthine place bustling with chemists and technicians, and housing rows of machines, each easy for a single person to lift, in which the containers of blood are placed. What exactly happens in the machines is treated as a state secret, and Holmes’s description of the process was comically vague: “A chemistry is performed so that a chemical reaction occurs and generates a signal from the chemical interaction with the sample, which is translated into a result, which is then reviewed by certified laboratory personnel.” She added that, thanks to “miniaturization and automation, we are able to handle these tiny samples.”
+
+Theranos owes its success in part to its high-powered board, which Holmes corralled with the help of George Shultz, a Palo Alto resident, who, in his long career, has held four Cabinet positions, including Secretary of the Treasury and Secretary of State. Shultz is ninety-three and a fellow at Stanford’s Hoover Institution; Holmes first met him in 2011. “It was one of those scheduled ten-minute meetings that turn into a two-hour meeting,” she said.
+
+Shultz agreed to join the board, and he meets with Holmes weekly. He introduced her to several other current board members: Bill Frist, a trained cardiac surgeon and former Senate Republican Majority Leader; Henry Kissinger, the former Secretary of State; Sam Nunn, a former Democratic senator and chairman of the Armed Services Committee; William J. Perry, the former Defense Secretary; and Richard Kovacevich, a former C.E.O. and chairman of Wells Fargo. All receive stock options from the company, among other forms of compensation. Kissinger, who is ninety-one, told me that Holmes “has a sort of ethereal quality—that is to say, she looks like nineteen. And you say to yourself, ‘How is she ever going to run this?’ ” She does so, he said, “by intellectual dominance; she knows the subject.”
+
+Board members are clearly charmed by Holmes. She is a careful listener, and she is unnervingly serene; employees say that they can’t remember an instance when she raised her voice. “She has sometimes been called another Steve Jobs, but I think that’s an inadequate comparison,” Perry, who knew Jobs, said. “She has a social consciousness that Steve never had. He was a genius; she’s one with a big heart.”
+
+Holmes said that she had looked for “different kinds of people” for her twelve-member board. I pointed out that the membership includes no women. “Hopefully, I qualify,” she said. Equally notable is the fact that eight members are former elected, federal, or military officials. Aside from Frist, the one other board member with a medical license is William Foege, the former C.D.C. director. Holmes has established a medical task force, chaired by her and Dr. David Helfet, the director of the orthopaedic trauma service at New York’s Hospital for Special Surgery and New York-Presbyterian Hospital. I asked Holmes if the board was designed to attract government contracts.
+
+“We don’t have any government contracts,” she said. “I’ve never applied for one, and I don’t plan to.” Theranos has conceded that it does earn revenue from the military, which Holmes calls “a really important area in terms of potential” for saving lives. But she said that the company’s policy has been to make its testing available “for far less than the government is willing to pay us.” She added that it would be “insulting” to suggest that her board members function as lobbyists. She views them as partners who are helping her to chart strategy. Kovacevich said that he brings business experience to the board. “I know most of the major retail-company C.E.O.s,” he told me, including Gregory D. Wasson, the C.E.O. of Walgreens. Kissinger advised Holmes to concentrate on building up Theranos in the U.S. before launching it in developing nations, he said, so that “it would not look like we were experimenting on them.”
+
+and her board members like to emphasize how technologically advanced Theranos is; the implicit comparison is with the existing diagnostic behemoths such as Quest Diagnostics. The blood-test business is “dictated by the people who make the big machines,” Frist said, and they “obviously have a vested interest in keeping their technology out there.” He added, “You don’t need four tubes of blood” for a range of tests, or “this 1940 technology.”
+
+Nigel Clarke, Quest’s senior scientific director for mass spectrometry, immunology, and automation, disagreed. I met Clarke in late September during a visit to Quest’s main lab center, near Teterboro Airport, in New Jersey. Quest runs about thirty full-service laboratories around the country; it performs six hundred million tests of all kinds annually—Theranos’s aim is to hit one million blood tests in 2015—and owns four thousand vehicles for picking up samples. The samples are delivered to an assembly line of machines, some larger than an S.U.V., that process vials of blood as they move along on conveyor belts. Instruments on the machines then identify the amount and the characteristics of chemicals present in a blood sample, using a technique called mass spectrometry. Clarke maintains that these blood tests are as comparable to those of 1940 as a Lamborghini is to the Model T. He says that, over the past decade or so, the amount of blood needed has been reduced from two full vials to one-fifth of one vial.
+
+The process is more automated than Frist suggests, but it is labor-intensive. Samples from hospitals and doctors’ offices are labelled and packed in sealed plastic bags by phlebotomists. The samples are then picked up and delivered by drivers to a central lab, where they are manually sorted into various bins and then placed on the conveyor belts by hand. Holmes says that Theranos’s operation is more automated, but it doesn’t run itself. The partnership with pharmacies and hospitals will entail opening labs within easy distance of participating centers. The blood samples are much smaller than what Quest requires and are labelled digitally, but they still need to be picked up, and delivered, and handled by a technician—no small logistical task, and not free of the potential for human error.
+
+Quest takes issue with several other of Theranos’s claims. Holmes has argued that people want their blood tests to be more convenient; as evidence, she often states that between forty and sixty per cent of patients who are asked to get blood tests fail to do so. Theranos has developed these numbers internally, in part, Holmes said, through consumer surveys. Dermot V. Shorten, Quest’s vice-president of strategy and ventures, told me the figure is lower. “The number is thirty per cent,” he said, citing Quest’s own figures. He added, “It is a huge number.” He also said, less plausibly, “I don’t think we’ve ever heard that fear of needles was a reason.”
+
+Clarke argues that finger-stick blood tests aren’t reliable for clinical diagnostic tests; because the blood isn’t drawn from a vein, the sample can be contaminated by lanced capillaries or damaged tissue. Holmes strongly disagrees: “We have data that show you can get a perfect correlation between a finger stick and a venipuncture for every test that we run.” When I asked for evidence, I was sent a document by Daniel P. Edlin, Theranos’s senior product manager, titled “Select Data.” It purported to show favorable results from numerous comparison tests. I asked Edlin if the tests had been conducted by an independent third party. He replied by e-mail: “The clinical tests were conducted by a combination of Theranos and external labs,” but he wouldn’t say which ones.
+
+When I asked Holmes for evidence that her tests were independently audited, she said that there have been “tens” of audits and “external third-party comparisons” of Theranos’s tests, including those done by the hospital groups that are adopting its finger-prick tests and the pharmaceutical companies that have contracted with Theranos for testing their products. Holmes says that Theranos is certified in forty-eight states, with two more applications pending, under the federal Clinical Laboratory Improvement Amendments of 1988. Under the amendments, laboratories like hers must be certified before they can perform tests for the general public, and their performance is evaluated three times a year by the College of American Pathologists. Holmes also pointed me to a pilot study published by Hematology Reports, an online-only peer-reviewed journal; she is listed as a co-author. The report, released in April, concluded that Theranos tests “correlated highly with values obtained” from standard lab tests.
+
+The company’s reluctance to share its results or display its devices has prompted wariness among some physicians and medical officials. Lakshman Ramamurthy, the former associate director at the F.D.A., is concerned. “The technology should have peer review,” he said. To claim, as Theranos does, “that with a finger stick you can do hundreds of tests, your technology has to be different.” He added, “Does that not need some peer review?”
+
+Technically, it doesn’t. “Typically, laboratories are not required to disclose data on how their tests work,” Alberto Gutierrez, the director of the F.D.A.’s office of in-vitro diagnostics and radiological health, told me. The F.D.A. imposes rigorous standards on companies seeking approval to sell new drugs. But most blood tests aren’t monitored by the F.D.A. and don’t receive the same level of pre-approval scrutiny. The labs are effectively left to police themselves. Gutierrez said that the F.D.A. is in the process of developing new guidelines for oversight of tests that labs develop for their own use in-house.
+
+Holmes says that she welcomes government monitoring. She says that Theranos has submitted all its lab-developed tests for F.D.A. approval—a step that isn’t required and that no other diagnostic company has taken. “We believe that to realize our vision we must operate at the highest levels of excellence,” she told me. “And the F.D.A.’s stamp of approval is seen as an indicator of the quality of a product.” However, it’s unclear whether the F.D.A. has a mechanism for responding to the company’s request. The agency did not indicate if or when any kind of approval might be granted.
+
+“When Theranos tells the story about what the technology is, that will be a welcome thing in the medical community,” Eric Topol, a cardiologist and geneticist and the director of the Scripps Translational Science Institute, in La Jolla, California, said. “Until it does that, it can have the big labs saying Theranos is not real, or is not a threat. I tend to believe that Theranos is a threat. But if I saw data in a journal, head to head, I would feel a lot more comfortable.”
+
+Theranos has raised more than four hundred million dollars from numerous investors, including the founder of Oracle, Larry Ellison. Holmes believes that the seventy-five-billion-dollar testing marketplace could grow to two hundred billion dollars, as more people take it upon themselves to go to a pharmacy and request blood tests for pregnancy, high cholesterol, and other common medical issues. At the moment, most such blood tests require a doctor’s note; Holmes says that this would have to change, and could. “There are states in the U.S. where citizens can order tests directly,” she said. “The fact that in some states it’s illegal for someone to be able to get basic data about their body—for example, you’re pregnant or you’re not, you have an allergy or you don’t. Not a lot of sophistication has to go into the interpretation of that test.”
+
+For all of her practice at presentation, Holmes still sometimes has an engineer’s difficulty in clearly articulating how Theranos will advance the cause of preventive medicine. At tedmed, she noted that diabetes, which is a major source of health-care costs, can be reversed through changes in life style. “Yet today there are eighty million Americans who are pre-diabetic,” she told the crowd, “and ninety per cent of them don’t know that they are.” Holmes figures that pre-diabetics aren’t gaining this knowledge either because they don’t visit the doctor or because they avoid the blood test, or both. Instead, she assumes that Theranos will make getting a blood test so simple and painless that it will become something that we do before visiting the doctor, or that we think to do on our own; the results would be forwarded to the physician, as a basis for further discussion.
+
+Holmes insists that Theranos would be serving doctors, not replacing them. “If a test is abnormal, most people will want to have some type of treatment,” she told me. “People say, ‘What does Theranos mean?’ The simplest way to explain it is detection at the onset of disease in time for therapy to be effective. The detection piece”—Theranos’s role—“is half of the equation. The therapy piece is the other half.”
+
+Prescriptionless blood tests raise a host of questions. “Will insurance be willing to pay for patient-ordered blood tests?” Bruce Deitchman, a dermatologist and pathologist, said. Deitchman has served as an alternate member of the American Medical Association’s expert panel that recommends reimbursement rates to Medicare. “Will Theranos insist that test results be sent to physicians, and will patients want their doctors to know?” He noted that doctors are legally obligated to follow up and address abnormal blood tests with patients. In the absence of a doctor, will Theranos be held to that standard? Still, Deitchman added, getting patients involved in their own care “can lead to better health outcomes.”
+
+Some experts see the changes to health care such as those envisaged by Theranos as inevitable, and mostly for the good. “Regardless of how doctors or anyone else may feel about it, this type of innovation is going to happen, and probably needs to happen,” Andy Ellner, a physician and the co-director of the Harvard Medical School Center for Primary Care, said. “There is going to be a big shift in power, control, and authority of health data from doctors to patients.” But Ellner added that there is “very little evidence” that paying more attention to blood tests, or doing more tests over all, will have an impact on people’s health. Of diabetes, in particular, he said that there is only “modest evidence that screening for it in particular populations helps us intervene earlier in a way that benefits people. The main value of knowing that someone is pre-diabetic is that it confirms what we already know: that people should be eating a better diet and exercising more.”
+
+Holmes faces a number of challenges as she pursues her vision for Theranos. One is logistical. Holmes’s brother, Christian, a Duke graduate and former management consultant who joined the company three years ago and is now the director of product management, says, “You’ve got to be able to scale this. If we can’t, we’ll get killed.” Another challenge is the competition. As miniaturization becomes the standard, researchers are finding ways to bring medical tests directly to patients. Many companies are exploring a range of tests that don’t require needles, relying instead on lasers, oximetry, biosensors, and medical imaging, such as MRIs.
+
+
+Holmes says she is acutely aware that technology could disrupt Theranos. “We focus all the time on disrupting ourselves, and that’s one of the core tenets in the way we operate,” she said. “Silicon Valley is a great symbol of disruptive technology being able to, one, change the world, and, two, obsolete itself.”
+
+Late one afternoon in September, Holmes was driven from Palo Alto to the San Francisco airport, where she boarded a seven-seat Gulfstream 150 for a flight to Chicago. She would be speaking at a panel; from there she would fly to Cleveland to attend meetings at the Cleveland Clinic. She was travelling alone. Members of the Theranos board sometimes worry about Holmes. “My wife and I feel that one of our jobs is to bring her out,” George Shultz told me. They invite her to the theatre, and this year threw her a thirtieth-birthday party at their home, which was attended by her parents, her brother, Balwani, Robertson, and several members of the board and their spouses. Henry Kissinger and his wife, Nancy, have tried, without success, to fix her up on dates. Her mother told me, “As a parent, I do hope that at some point she will have time for herself.”
+
+This concern is lost on Holmes. The plane had reached cruising altitude, far above a bank of clouds, and another green vegetable drink had materialized in her hand. “I have done something, and we have done something, that has changed people’s lives,” she told me. “I would much rather live a life of purpose than one in which I might have other things but not that.” Also, she said, with a smile, “I think I’m very young. Still.”
+
+As a kid, Elizabeth Holmes spent a lot of time with her uncle.
+"I remember his love of crossword puzzles and trying to teach us to play football," she said, while speaking at TEDMED 2014 in San Francisco. She recalled his love of the beach and how she spent summers and holidays with him.
+
+
+But one day he was diagnosed with skin cancer, and doctors soon realized the cancer had already spread.
+
+That illness "all of a sudden was brain cancer and in his bones," she said. "He didn't live to see his son grow up and I never got to say goodbye."
+
+Holmes uses what happened to her uncle as a way of explaining why she started Theranos, a company valued at $9 billion that's transforming medicine by re-inventing the blood test.
+
+The problem Holmes identified with her uncle's cancer is that we usually diagnose disease when a person showing symptoms decides to get those symptoms checked out at a doctor. Oftentimes that doctor's visit happens too late.
+
+With Theranos, Holmes says she wants to offer individuals an easier, faster, cheaper way of getting access to their own health information, allowing them to transform their own behavior or to get treatment for serious health conditions earlier, giving them more time to get help.
+
+"I believe the individual is the answer to the challenges of healthcare but we can't engage the individual in changing outcomes unless the individual has access to the information they need to do so," she said.
+
+At TEDMED and in the past, Holmes has defined access to health information as a "basic human right."
+
+And the lab tests Theranos provides, in theory at least, should give people much greater access to information — the very information used in 60-80% of clinical decisions, the company says.
+
+Theranos has partnered with Walgreens, so that anyone who needs (or just wants) a blood test can walk into a drug store — and not just during working hours. After submitting to a painless fingerprick, Theranos can run over 70 tests on a tiny sample of blood, checking for anything from blood sugar abnormalities to sexually transmitted infections, all for 50-90% cheaper than Medicare reimbursement rates.
+
+That model has attracted investors and a notable board of directors. For patients, though, making that kind of health information easily accessible has the potential make doctors visits and associated lab tests easier, cheaper, more convenient, and essentially painless. Still, it remains to be seen whether people will fully adopt the approach she envisions, where individuals track their health with the system "almost the way they might use a bathroom scale to watch their weight," as Roger Parloff describes it in his excellent Fortune profile of Holmes.
+
+If that goal is a success, changing the blood test would really be transforming our whole societal approach towards medicine.
+
+
+
+Serious health issues frequently affect us people living in the Middle East. We face long-eradicated diseases like polio. There is also concern about disease caused by terrifying levels of air pollution. In cities like Tehran, people may be seeing air pollution worse than in Beijing. It’s hard to breath in cities like Tehran, but Cairo too. And eating. When your meat is pumped up with toxic contaminants this can’t be good for you. Think of what could be seen in a simple blood test? Cancer? Diabetes? Knowing this information early can save lives not only in the Middle East where general healthcare standards are not great, but also in the US where blood tests cost a lot of money to the uninsured.
+
+An American start-up medical technology company, Theranos, is now developing a way that will change the face of healthcare, letting extensive blood work be done by a “single drop of blood”. We love the approach.
+
+Founded in 2003 by Elizabeth Holmes, a young chemistry major at California’s Stanford University, Theranos (a combination of the words therapy and diagnosis) is now introducing its unique blood testing into American medical centers, including  those that cater to people who have limited financial means.
+
+
+
+Holmes, 31, was recently interviewed on a health and wellness program on CNN. During this interview, she said that when a doctor orders a blood test, between 40 and 60 percent of Americans do not have the tests performed due to high costs.
+
+She says: “When a doctor orders a blood test, it usually means a person is already at risk of having some kind of health problem like a serious disease. Human error is also responsible for 93% of errors in the blood test itself,” she said on the show.
+
+The Theranos method is extensive and includes more than 200 different types of tests. The technology is licensed in every US state.
+
+Using a testing procedure called the “nanotainer” – Theranos, though it does not report how, does manage to get results from smaller amounts of blood. The Theranos blood testing method is not only being hailed as much lower in cost to standard testing methods, it is also good in helping to detect certain serious ailments like diabetes and cancer at early stages, making treatment much more successful.
+
+Presumably the company is using lab-on-a-chip methods, with software to amplify signals seen in the blood to confirm a diagnosis.
+
+Theranos test means less pain
+Besides the costs factor, taking only a small blood sample amount makes it easier to do tests on children and elderly people whose veins are hard to find for taking blood samples.
+
+“We are very focused on the ability to mitigate the pain people who have to give blood frequently experience as their veins collapse from frequent blood draws.  This helps make it possible for little children to get tested without being scared, or for elderly patients, oncology patients and people whose veins are difficult to find,”  Holmes added.
+
+This type of innovative bio-technology can work well in developing countries, where facilities to adequately store and work with large quantities of blood test samples may be scarce. This especially holds true for many parts of the developing world, including the Middle East.
+
+“When people say, ‘I want to start a business,’ ” Theranos founder and CEO Elizabeth Holmes said Wednesday, “my question is always, ‘Why?’ Because there’s got to be a mission—there’s got to be a reason you’re doing it so that no matter how hard it is, you want to keep doing it over and over and over again, because you love it.”
+
+“And if you know what it is you’re trying to do,” she continued, “then it’s a question of being very, very open to failure.” Her attitude, she said, was: “We will fail over a thousand times till we get this thing to work, but we will get it on the 1001st time.”
+
+Holmes made these remarks during the closing interview of Fortune‘s 2014 MPW Next Gen conference at San Francisco’s Ritz-Carlton Hotel. She was interviewed by Fortune senior editor at large Pattie Sellers, who is also Executive Director, MPW/Live Content, Time Inc.
+
+Holmes, a prodigious inventor who is still just 30, was the subject of a Fortune cover story in June. She dropped out of Stanford at age 19 to found Theranos, whose name is an amalgam of the words “diagnosis” and “therapy.”
+
+A number of startups are selling portable diagnostic laboratories that require just a drop of the patient’s blood, made possible by advances in the field of microfluidics. But perhaps lab tests can be made faster, easier and more accurate with a turn-of-the-last-century technology: automation.
+
+That’s the bet the Silicon Valley company Theranos is making, and the company recently sealed a deal with Walgreen’s Pharmacy to deliver on-site laboratory services to many of its stores.
+
+Henry Ford would recognize the principle that allows Theranos to complete accurate lab tests within four hours: Consistency and automation increase speed and bring price down. Even so, Theranos’s selling point is much smaller than a Model T: a capsule-sized lab vial, and just one needs to be filled for the company to run nearly any standard lab test.
+
+Here’s how it works: Blood is drawn with a finger stick, rather than a needle in the arm. (It can also run urine tests with just a drop of that.) There are no botched sticks — of course, there are no phlebotomists, only machines, in Therenos labs.
+
+The bad news for workers may be good news for accuracy because human handling of samples accounts for the lion’s share of variation among results, founder and CEO Elizabeth Holmes said last week at a technology conference in New York. Automation eliminates spills, tests done in error and other mishandling of the sample.
+
+Holmes has spent the decade since she dropped out of Stanford  quietly developing the machines to handle one-drop fluid samples and provide results within a matter of hours.
+
+“Theranos has worked relentlessly to reach a point at which we could help make actionable information accessible to physicians and patients at the time it matters most. Clinicians can now see their patients having received lab results from fresh samples in a matter of hours,” she said in a statement.
+
+In a few cases, Theranos has designed new diagnostic methods to shave time from the process.
+
+The machines mete out bits of the “micro-sample” for each test a doctor has ordered. In conventional testing, each test requires a dedicated vial, which adds dramatically to the amount of blood required. Theranos is even able to save some of the tiny sample in case the doctor requests further tests after seeing the initial results.
+
+All of the diagnostic technology is integrated, which increases precision. Each machine in a conventional lab may calibrate differently, and the mix of brands and ages means results come with an implied “or so” at the end. Plotting results over time is therefore mostly useless.
+
+Theranos offers a full range of laboratory tests for a consistently lower cost than most labs do now, and its prices are readily available through a mobile app and on the company’s website.
+
+While a deal with Walgreen’s may not be Silicon Valley sexy, laboratory tests are a big lever in the health care system. In the U.S., they are the industry’s single highest volume activity, with over 5 billion tests performed every year according to a new Beth Israel Deaconess Medical Center study. Access to Walgreen’s will help Theranos get quick-and-painless testing close to most Americans.
+
+Don’t tell the NSA we said so, but Singularity Hub is also betting that the military will use the instant lab tests. Our tip? The list of the company’s board of directors reads like a who’s who guide to recent American military history.
+
+The next time you get a blood test, you might not have to go to the doctor and watch vials of blood fill up as the precious fluid is drawn from your arm. No more wondering to yourself, “Ah, how much more can they take before I pass out?” Instead you might be able to walk into a Walgreens pharmacy for a reportedly painless finger prick that will draw just a tiny drop of blood, thanks to Elizabeth Holmes, 30, the youngest woman and third-youngest billionaire on Forbes’ newly released annual ranking of the 400 richest Americans.
+
+Revolutionizing the blood test is a golden idea. Because of new testing methods developed by Holmes’ startup Theranos, that lone drop can now yield a ton of information. The company can run hundreds of tests on a drop of blood far more quickly than could be done with whole vials in the past—and it costs a lot less.
+
+A Billion-Dollar Idea
+
+Holmes dropped out of Stanford at 19 to found what would become Theranos after deciding that her tuition money could be better put to use by transforming healthcare.
+
+Traditional blood testing is shockingly difficult and expensive for a tool that’s used so frequently. It also hasn’t changed since the 1960s.  It’s done in hospitals and doctors’ offices. Vials of blood have to be sent out and tested, which can take weeks using traditional methods and is prone to human error. And, of course, sticking a needle in someone’s arm scares some people enough that they avoid getting blood drawn, even when it could reveal lifesaving information.
+
+Holmes recognized that process was ripe for disruption. It took a decade for her idea to be ready for primetime, but now it seems that her decision to drop out was undoubtedly a good call. Last year, Walgreen Co. announced that it would be installing Theranos Wellness Centers in pharmacies across the country, with locations already up and running in Phoenix and Palo Alto, California. And Holmes has raised $400 million in venture capital for Theranos, which is now valued at $9 billion (Holmes owns 50 percent).
+
+The other two 30-year-olds on Forbes’ List, Facebook founder Mark Zuckerberg and his former roommate and Facebook CEO Dustin Moskovitz, also have access to a wealth of information about people—but their data is less likely to directly save a life.
+
+
+
+How It Works
+
+One closely guarded secret is what MedCityNews calls “the most interesting part of [the Theranos] story”: how exactly the technology behind its blood test works. The company’s methods are protected by more than a dozen patents filed as far back as 2004 and as recently as last week.
+
+In an interview with Wired, Holmes hinted at some of the key ideas behind Theranos. “We had to develop … methodologies that would make it possible to accelerate results,” she said. “In the case of a virus or bacteria, traditionally tested using a culture, we measure the DNA of the pathogen instead so we can report results much faster.”
+
+While we can’t yet assess independently how well that method works when compared with traditional blood tests, it already seems to be upending the old way of doing things.
+
+Why Blood Tests?
+
+Holmes told Medscape that she targeted lab medicine because it drives about 80 percent of clinical decisions made by doctors. By zeroing in on the inefficiencies of that system, the Theranos approach completely revolutionizes it.
+
+The new tests can be done without going to the doctor, which saves both money and time. Most results are available in about four hours, which means that you could swing by a pharmacy and have a test done the day before a doctor’s visit, and then the results would be available for the physician. Quick tests that can be done at any time are already a total change, but the amount of data the company can get from a single drop of blood is amazing.
+
+Blood samples have traditionally been used for one test, but if a follow-up was needed, another sample had to be drawn and sent out—making it less likely that someone would get care. The Theranos approach means the same drop can be used for dozens of different tests.
+
+It’s cheap, too. One common criticism of the healthcare system is that the pricing structure is a confusing labyrinth that makes it impossible to know how much anything costs. Theranos lists its prices online, and they’re impressive. Each test costs less than 50 percent of standard Medicare and Medicaid reimbursement rates. If those two programs were to perform all tests at those prices, they’d save $202 billion over the next decade, Holmes said in an interview on Wired
+
+Plus, people get access to their own results. As an example of how helpful that can be, Holmes told Wired that Theranos charges $35 for a fertility test, which is usually paid for out-of-pocket and costs up to $2,000. But she also said that this data could be useful for anyone looking to gain a better understanding of his or her health. “By testing, you can start to understand your body, understand yourself, change your diet, change your lifestyle, and begin to change your life,” she said.
+
+The world’s youngest female billionaire said Tuesday her company, Theranos, which aims to democratize blood tests to enable early detection of diseases, is not for sale.
+
+“We’re not going to be bought,” Elizabeth Holmes told CNBC’s “Squawk Box.” If approached, she said, she would say “we have an incredibly long-term vision and we’re flattered by the call, but we’re just getting started.”
+
+And what a start it’s been.
+
+At just 19, Holmes founded Palo Alto, California-based Theranos in 2003, and dropped out of Stanford University a year later. She’s raised more than $400 million in funding, and she owns 50 percent of the diagnostics company, which is valued at $9 billion.
+
+She said her “traumatic fear of blood” helped motivate her to build Theranos. “It [also] came from losing my family members and people that I loved, and the belief ... the true legacy of Silicon Valley is to build great products that can make a difference in the world.”
+
+Now 31, Holmes said she has no plans to go public, and that Theranos can continue to grow as a privately held company.
+
+The goal of Theranos is making lab testing more widely available so people can find out whether they’re sick in time to do something about it, she said. “We were looking for a way to build a system that could help make early detection and prevention [of diseases] a reality in our health-care system.”
+
+Holmes, who holds more than 80 patents, said she’s developed tests that use smaller blood samples and cost much less than those of competitors such as Laboratory Corporation of America and Quest Diagnostics.
+
+Through just over 50 Walgreens and standalone Theranos locations, the 12-year-old company has designed 150 tests that cost less than $10. “Our tests are anywhere from 50 percent to 80 percent off of Medicare rates, which means something like a cholesterol test is $2.99,” she said.
+
+“The reason the market doesn’t function in health care [is] because individuals have absolutely no visibility into pricing,” she said. “But you have a right to the lowest cost, highest quality product. And right now, there’s not even a demand for that because there’s no pressure to build a greater product at a lower price.”
+
+She’s looking to change that. ”[We] tried to focus on consumerizing the whole lab experience in the context of incredibly low prices, transparent prices, a wonderful experience though which to get tested, and smaller blood samples so that it’s not as traumatizing to people like me who otherwise won’t get tested.”
+
+Addressing critics of the secrecy surrounding Theranos, Holmes said her company is the first and only lab to commit to proactively submitting all developed tests to the Food and Drug Administration for clearance and approval.
+
+As part of its 25th anniversary celebration last year, CNBC choose 25 business leaders who disrupted industries, sparked change and exercised an influence far beyond their own companies. The CNBC First 25 list was then followed by the Next List, which picked Holmes as one of the entrepreneurs, financiers, inventors and executives working on innovative solutions to global challenges.
+
+ Elizabeth Holmes is tall, smart and single. Well, maybe not truly single. "I guess you should say I'm married to Theranos," Holmes says with a laugh. Only she's not kidding.
+
+For the past 11 years, Holmes, 30, has been laboring incessantly to build a company whose mission is to overhaul the nation's $60 billion blood taking and analysis business, literally one drop at a time.
+
+The diagnostic-lab industry has long been dominated by names such as Quest Diagnostics and LabCorp, whose satellites many of us visit when our doctors want to run standard tests that typically require three or four vials of blood. But Theranos – a blend of "therapy" and "diagnosis" – has developed hardware and software that allows for many such tests to be completed with just a pinprick's worth of blood stored in a minute vial called a nanotainer.
+
+The benefits of this breakthrough to Theranos could be riches; Holmes, who owns more than 50% of the stock in her company, has raised $400 million for a current valuation of $9 billion. But while Holmes is a billionaire on paper, nothing seems to interest her less.
+
+"We're successful if person by person we help make a difference in their lives," says Holmes, who dresses exclusively in black and has a soft yet commanding voice that makes a listener lean in as if waiting for marching orders. "Our purpose is to give people access to the basic right of being (blood) tested when they need to or want to. If we can do that, then we will have made a difference."
+
+Theranos broke out of its decade of development with a quiet announcement last fall that it would open up its Wellness Centers in a Walgreens store here in Palo Alto as well as 20 other store locations in Phoenix. Eventually, the goal is to be in all 8,200 Walgreens nationwide, sending blood samples to dozens of regional lab hubs.
+
+The company's promise to consumers boils down to comfort, cost and control.
+
+
+Change Agents: Elizabeth Holmes wants your blood
+Marco della CavaUSA TODAY
+
+
+
+
+
+
+
+
+
+
+Theranos founder and CEO Elizabeth Holmes  holds a nanotainer of blood at Theranos headquarters in Palo Alto, Calif.
+
+PALO ALTO, Calif. – Elizabeth Holmes is tall, smart and single. Well, maybe not truly single. "I guess you should say I'm married to Theranos," Holmes says with a laugh. Only she's not kidding.
+
+For the past 11 years, Holmes, 30, has been laboring incessantly to build a company whose mission is to overhaul the nation's $60 billion blood taking and analysis business, literally one drop at a time.
+
+The diagnostic-lab industry has long been dominated by names such as Quest Diagnostics and LabCorp, whose satellites many of us visit when our doctors want to run standard tests that typically require three or four vials of blood. But Theranos – a blend of "therapy" and "diagnosis" – has developed hardware and software that allows for many such tests to be completed with just a pinprick's worth of blood stored in a minute vial called a nanotainer.
+
+
+The benefits of this breakthrough to Theranos could be riches; Holmes, who owns more than 50% of the stock in her company, has raised $400 million for a current valuation of $9 billion. But while Holmes is a billionaire on paper, nothing seems to interest her less.
+
+"We're successful if person by person we help make a difference in their lives," says Holmes, who dresses exclusively in black and has a soft yet commanding voice that makes a listener lean in as if waiting for marching orders. "Our purpose is to give people access to the basic right of being (blood) tested when they need to or want to. If we can do that, then we will have made a difference."
+
+Theranos broke out of its decade of development with a quiet announcement last fall that it would open up its Wellness Centers in a Walgreens store here in Palo Alto as well as 20 other store locations in Phoenix. Eventually, the goal is to be in all 8,200 Walgreens nationwide, sending blood samples to dozens of regional lab hubs.
+
+The company's promise to consumers boils down to comfort, cost and control.
+
+
+For patients who dread blood work – children, the elderly or anyone fearful of needles, including Holmes – the prospect of a mere pin prick could increase the likelihood of following through on a doctor's request for blood work (Holmes says 40% to 60% of Americans "are non-compliant with requisitions for blood work").
+
+If fear doesn't factor in, cost may. Depending on insurance coverage, blood work can significantly affect a pocketbook. Holmes reads an e-mail from a diabetic woman who wrote the company to say her recent visit to a Theranos Wellness Center cost $34, "for (a wide variety of) tests that back in February cost my insurance company $876."
+
+The woman, who calls phlebotomists "vampires," goes on to write: "I had three finger pokes and three adorable little nanotainers full of blood. It was awesome, amazing, pain-free, stress-free and a downright fun experience. I never imagined in my lifetime I'd say those words about having labs done."
+
+Holmes is glowing as she reads the e-mail.
+
+"That she opted to pay for her own lab and felt this way about it, that's not a paradigm people are used to," she says.
+
+Which leads to the point about people having control over their health.
+
+
+
+Holmes can wax philosophical and technical – this is a woman who taught herself Mandarin as a high school student in Houston and was an electrical and chemical engineering major at Stanford before dropping out in 2003 at 19 to start Theranos.
+
+But on this point she couldn't speak more plainly. Holmes is adamant that having easier and cheaper access to blood testing, thereby more easily tracking your own health, "is a civil right," she says.
+
+"My father did a lot of disaster relief work, and he was always in places where there was a lot of pain," she adds. "When I thought about having the greatest impact with my life, I thought about all the times people lose loved ones because diseases weren't detected early enough. I thought, 'I can play a role there.' "
+
+Given that Theranos' current valuation slightly exceeds that of entrenched players Quest and LabCorp, "one wonders if there is some over-exuberance" about the company, says Eric Lakin, analyst with DeciBio Consulting.
+
+"(Quest and LabCorp) rely on an extensive network of employees, lab facilities and transport systems to coordinate the fast, reliable and accurate results they offer to patients," says Lakin. "One of the largest hurdles Theranos will have to address is the massive infrastructure requirement necessary for a national expansion."
+
+Holmes smiles when she reads the list of next-step hurdles.
+
+"We are patient and we're building this company for the very long term," she says, sounding a bit like her far more volatile hero, Steve Jobs. "We're looking to reshape the system."
+
+If Holmes is on a vision quest, she has gotten some impressive names to glimpse the same health care future that she's seeing. Besides a deep medical advisory group, her board of directors includes former secretaries of State Henry Kissinger and George Shultz, former Defense Secretary William Perry, and former senators Sam Nunn and Bill Frist. On point for legal matters is legendary trial lawyer David Boies.
+
+"Elizabeth's iron determination and great intellectual ability turned me from a mild skeptic to an enthusiast," says Kissinger, adding that he was introduced to Holmes by his friend Shultz.
+
+"We aren't exactly a group of people who give away our time lightly," Kissinger says with a laugh. "But we are impressed with her commitment to lowering health costs and bring this advance to developing nations. Elizabeth may make a lot of money, but that is not her motivation."
+
+Kissinger adds that board meetings often last all day, with conversations continuing into cocktail hours afterward.
+
+Far from being intimidated by such an accomplished board, Holmes "invites argument and debate, though it's always absolutely clear she knows where she wants to go. She's a leader who doesn't act like a dominant charismatic personality. And those are often the strongest leaders."
+
+Holmes brushes off such compliments. For her, Theranos isn't just a business idea or a cash machine or even her chance to make history. Rather, it's simply the only thing she wants consuming her every waking moment.
+
+"When I realized this is what I wanted to do with my life, things got easy," she says softly. "Because when you reach that moment when you've found what you're born to do, well then you just go do it."
+
+Vice President Joseph Biden gave a shout-out to health care startup Theranos and its founder on Thursday, as he toured the company's Newark, California, facility and then made some brief remarks before an audience of about 150 Theranos employees and press.
+
+Biden said he'd met Elizabeth Holmes (above), the founder of Theranos, at a conference about a year ago. Since then, he said, "I've been threatening Elizabeth for the past year that I'm going to take the opportunity to be shown around. Talk about being inspired! This is inspiration, man," he said.
+
+He applauded the company for being able to dramatically cut costs while manufacturing in the United States. He also said that Theranos is at the forefront of a paradigm shift in health care, where the emphasis is moving from treating symptoms once a disease has manifested to stopping the illness before traditional symptoms are necessarily displayed.
+
+Theranos has attracted attention for both the ambition of its mission and the precociousness of its founder. By dramatically cutting the costs and inconvenience of bloodwork, and by making results available directly to patients, Theranos is aiming to help detect disease earlier, when treatment may be more effective.
+
+
+Holmes dropped out of Stanford University during her sophomore year to start the company at the age of 19. Theranos has raised more than $400 million, but Holmes still owns half of it. Theranos also boasts an all-star board, including two former U.S. Secretaries of State.
+
+Biden also did a bit to parry what is probably the main criticism of Theranos, which is that it has not published any peer-reviewed studies of its work. When asked about this, Holmes generally says that Theranos is submitting each of its tests for FDA approval. Theranos is not required to do this, and Holmes describes FDA approval as the "gold standard" for determining efficacy and the proper use of a test. She also says that she'll release more information about her company when she determines it's time to do so, not when her competitors request it.
+
+This strategy also provides much less information to Theranos's competitors than publication in a journal would entail. Biden didn't directly address the complaints about peer review, but said that "the fact that you're voluntarily submitting all your tests to the FDA demonstrates the confidence you have in what you're doing."
+
+Biden also used his own family's history to illustrate the importance of detecting disease earlier. His son Beau died of cancer in May. He described the families of people with such difficult diseases as "so close to breaking," and said that "science is going to catch up ... But a big piece of that is ... changing the paradigm of [medicine], dealing with costs, and dealing with availability."
+
+Elizabeth Holmes who developed a way to quickly diagnose a few drops of blood with minimal draw at a fraction of the price of commercial labs, is a billionaire.
+
+Holmes, who founded Palo Alto, Calif.-based Theranos with money saved for college, has been the subject of lengthy features in San Francisco Business Times, Wall Street Journal, and Wired. But a recent profile in Fortune claimed that Theranos has raised more than $400 million, valuing the 10-year-old company at a lofty $9 billion. Investors include Draper Fisher Jurvetson, ATA Ventures, and Oracle founder Larry Ellison. Holmes told Fortune she still controls more than 50% of Theranos equity. The company hasn’t responded to calls. An investor, who’s not allowed to comment per agreement with the company, would only say it sold stock at significant valuations.
+
+Though Theranos keeps its revenues under wraps, its $9 billion valuation puts it on a par with two of the countries’ largest commercial labs, Quest Diagnostics and Laboratory Corporation of America, which sport market capitalizations of $8.5 billion—not an especially stunning situation in Silicon Valley. Uber, an upstart disrupting private transportation, is worth more than Hertz and Avis.
+
+Last September, Walgreen , the largest retail pharmacy with more than 8,100 stores, announced plans to roll out Theranos Wellness Centers inside its pharmacies. So far, there is one center at Walgreens in Palo Alto, and 20 in Arizona. In addition, UCSF Medical Center, Dignity Health, and Intermountain Healthcare have signed on with Theranos to deploy its services at their facilities. The company has also generated revenue by working with drug companies in clinical trials by providing quick results for blood tests.
+The Stanford University dropout, who assembled a stellar board that includes elder statesmen George Shultz and Henry Kissinger, told Fortune her mission was “consumerizing this health care experience…which is access to actionable information at the time it matters.” Holmes defined this access as making it less off-putting, more convenient and affordable for people to get a blood test. Giving patients direct access to their results also matters. Last April, a government rule stipulating that patients nationwide can view their test results without their doctor’s authorization went into effect.
+
+With its speed, low prices, and mission to improve the patient experience, Theranos has a shot at shaking things up.
+
+Sometimes in order to gain insight into innovative trends happening in the market, Jim Cramer likes to go off the tape to speak with privately held companies that could be a game changer for its industry.
+
+That is why Cramer decided to take a closer look a Theranos. This is a privately held revolutionary diagnostics company with the goal of allowing individuals to take better control of their bodies, while changing the inefficient ways of an older medical system.
+
+Elizabeth Holmes founded the Theranos technology, which allows individuals to provide blood samples in a way that is faster, cheaper and better. As a college dropout from Stanford University when she was a sophomore, Holmes decided to take her money and focus on changing the world instead.
+
+In 2014 Theranos raised $400 million, and the company was valued at $9 billion. As a 50 percent owner of the company, Holmes became the youngest self-made female billionaire in the world in 2014.
+
+“This is a revolutionary company that threatens to change healthcare the same way that Amazon changed retail or Intel and Microsoft changed computing, or Apple changed the cellphone,” the “Mad Money” host said.
+
+To find out more about the company, Cramer sat down with the founder and CEO Elizabeth Holmes back in April.
+
+We believe strongly that the future of healthcare is in enabling the individual to have the information that they need to take ownership of their health
+
+“The goal is to empower the individual. We believe strongly that the future of healthcare is in enabling the individual to have the information that they need to take ownership of their health,” Holmes said.
+
+The CEO showed Cramer a small tube the size of a pill, which can now be used to replace the big vials currently used to draw blood, simply with the prick of a finger. Currently 80 percent of clinical decisions are made based on lab results from blood testing.
+
+Ultimately Theranos will allow this information to be as painless as possible, cost less and provide further transparency by providing information around pricing so that patients know before they buy a service how much it is going to cost them.
+
+Recently Walgreen’s Boots Alliance enlisted Theranos Labs to be available in select wellness centers across the state of Arizona. This was a game changer, as now patients have the ability to have blood drawn during more flexible hours on the weekend. Previously, the only option would be to go to the emergency room to have such a procedure done.
+
+Theranos also will encourage patients to have more testing done, as previously the thought of a needle drawing blood from the arm could be daunting to some, especially children and Holmes herself.
+
+“Absolutely, myself included, I am absolutely terrified of it. I’ve always said that if you were to think of torture experiments, it would be a phenomenal one because you sit there and watch as your blood is sucked out of you,” Holmes said.
+
+She also explained that this could be incredible useful for cancer patients who frequently have to give blood for testing. They also saw incredible results for mothers of autistic children, as Holmes stated that these children would have to be strapped to chair in order to draw blood.
+
+“We have a belief system, which that this is not about us or our technology. It’s about giving people a basic right that they have lost. This is the ability to get access to their health information. Our belief is that the cost of testing should be lower across the board,” Holmes added. (Tweet this)
+
+Cramer thought it even reasonable to compare Holmes to what Steve Jobs of Apple did for computing, as he regards her as a visionary for the next generation. He asked her if that is an immense amount of pressure for the CEO to have.
+
+“I don’t think there is another Steve Jobs. He was a phenomenal entrepreneur. We’ve got an incredible opportunity to try to uphold a legacy in Silicon Valley of change in the world, and we are working 24-7 to do it,” Holmes replied.
+
+Elizabeth Holmes, 30, is the youngest woman to become a self-made billionaire--and she's done so four times over. In 2003, as a Stanford undergrad, she founded Theranos, a Palo Alto company that's disrupting the business of blood testing, replacing the services provided by giants like Laboratory Corp. of America and Quest Diagnostics. "What we're about is the belief that access to affordable and real-time health information is a basic human right, and it's a civil right," she says .
+
+Theranos has raised approximately $400 million, with a recent round valuing it at $9 billion--more than the market caps of any of her rivals. Holmes holds 50% of the stock, putting her net worth at $4.5 billion. With just a drop of blood Theranos can do the same tests that used to require vials of it, at lower cost. "It's one of those white-whale type of approaches, where if this were to become mainstream, then the entire diagnostic testing market would turn over," says Mike Cherny, the diagnostics analyst at International Strategy & Investment.
+
+Right now Theranos is still small. Its testing centers have been installed at 21 Walgreen's clinics, with more on the way; it also has a partnership with Intermountain Healthcare.
+
+A drop of blood can tell you a lot about a person—whether he or she might have heart disease, an STD or diabetes, for instance, or tell-tale signs of certain cancers. But having blood drawn is somewhat of an arcane process, sometimes requiring nurses or phlebotomists to extract vials upon vials of blood. And when those vials are sent to a lab for testing, a lot can go awry. The vials can be misplaced, mishandled or simply misread; moreover, it can take days or even weeks for patients to learn the results.
+
+To Elizabeth Holmes, an entrepreneur with a background in chemical and electrical engineering, waiting a week for such a crucial diagnostic procedure seems unacceptable. The delay could put the patient at serious risks should his or her condition worsen without immediate interventions, such as taking medicines or seeing a specialist.  
+The art of phlebotomy originated with bloodletting in 1400 B.C. and the modern clinical lab emerged in the 1960s—and it has not fundamentally evolved since then," Holmes tells the Wall Street Journal.
+
+For a 21st-century society striving for technological efficiency, the arrival of Theranos, a blood test Holmes began developing a decade ago, has the feel of a long-overdue upgrade. Instead of putting a patient through what's known colloquially within the medical community as "blood work," Holmes says all she needs is a micro sample, equal in volume to a raindrop, to sufficiently run as many as 30 tests, the results of which can be available in less than a day.
+
+Typically, blood samples undergo a somewhat complicated journey that involves first transporting them to a facility, where they are either mixed with chemicals or put through various pieces of equipment to be examined. It's during this transfer of liquids that up to 70 percent of errors occur, according to a report by the ECRI Institute, a heathcare nonprofit. Potential complications can arise if the sample's freshness isn't properly maintained during transit or while manually centrifuging samples to separate plasma and red and white blood cells. The risk of an error is compounded by the fact that labs use equipment from different vendors, which aren't always properly calibrated. Follow-up tests also tend to make the process even more time-consuming, error-prone and expensive.     
+
+The system that Holmes has perfected, however, is designed to run a wide range of tests, including follow-up assessments that can be completed in as little as a couple of hours. Rather than trucking samples to a lab, the Theranos testing is carried out on-site at either of its two current locations in California and Arizona—a decision, she says, that not only reduces the likelihood of mistakes, but also lowers costs. 
+
+
+Currently, her company aims to provide its services at half the price of Medicare and Medicaid reimbursement rates. For instance, cholesterol and HDL measurements, which normally cost about $30 out of pocket, cost $2.99. Customers can peruse the entire menu of blood tests, which are all be run from the same drop of blood, on Theranos' website.  In a health care climate in which the cost of blood tests can vary wildly—illustrated recently through the story of one California woman who paid $4,000 for tests at one lab and $260 for the same tests at a lab down the street—Holmes hopes Theranos' menu can bring some transparency to the process.
+
+So how does the technology work? 
+
+Though Holmes doesn't reveal any specifics about the proprietary method, she does say the approach is similar, in some ways, to conventional blood tests.
+
+“We test for the same analytes,” she explains in an email. “The difference is in the size of the sample that is required. We also spent many years investing in infrastructure to be able to automate many of the processes that were traditionally error prone and overhead-intensive to produce our systems at a very low cost.”
+
+Those who have taken the test haven't been privy to laboratory details, either, but some—including the Wall Street Journal's editorial writer Joseph Rago—have described the streamlined process they undergo in a clinical setting:
+
+A Theranos technician first increases blood flow to your hand by applying a wrap similar to one of those skiing pocket warmers, then uses a fingerstick to draw a few droplets of blood from the capillaries at the end of your hand. The blood wicks into a tube in a cartridge that Ms. Holmes calls a "nanotainer," which holds microliters of a sample, or about the amount of a raindrop. The nanotainer is then run through the analyzers in a Theranos laboratory. Results are usually sent back to a physician, but a full blood work-up—metabolic and immune markers, cell count, etc.—was in my inbox by the time I walked out the door.
+
+
+Most importantly, Holmes notes, her company has figured out how to help patients avoid having to give an inordinate amount of blood. There have been documented cases in which hospitals have drawn from patients in excess of 45 times the volume of blood than is necessary as a way of compensating for the possibility of rejected samples.
+
+"We are very focused on the ability to mitigate the pain people who have to give blood frequently experience as their veins collapse from frequent blood draws," Holmes says. "This helps make it possible for little children to get tested without being scared, or for elderly patients, oncology patients, people whose veins are difficult to find."
+
+Ultimately, her goal is to have testing sites within five miles of a every person's home. The startup took a major step in that direction back in September, when they it partnered with Walgreens to set up testing facilities at two locations in Palo Alto, California, and Phoenix, Arizona, with the possibility of expansion throughout 2014. 
+
+
+
+
+Elizabeth Holmes may be only 31 years old, but she is already changing the world. On Monday, she became the youngest self-made billionaire to make Forbes 2015 Female Billionaire List. As CEO of Theranos, a company that has developed a quicker, more convenient and less expensive blood testing technology, her net worth is $4.5 billion. 
+
+Women are often celebrated more for their self-sacrifice or notable humanitarian work than their strictly professional achievements. By creating affordable medical solutions with the potential to save lives, Holmes has accomplished both.
+
+
+The "health-wealth" gap in America is no secret. Americans of a lower socioeconomic status are more prone to health issues like high blood pressure, obesity and heart disease, yet are also the least likely to be able to afford treatment. 
+
+Holmes' company seeks to help democratize healthcare. Her modus operandi is through revolutionizing blood testing. Theranos blood tests are not only technologically superior to traditional blood tests — they are painless and can detect multiple ailments using about one one-hundredth to one one-thousandth the amount of blood normally required, according to Fortune — but they are, most notably, far more affordable. 
+
+While a typical cholesterol lab test can cost upwards of $50, according to the New Yorker, a Theranos cholesterol lab test administered at Walgreens costs a mere $2.99. Additionally, rather than just being administered in hospitals, the tests are being integrated into pharmacies, which are more accessible to many and results are delivered more rapidly than traditional methods. 
+
+Holmes is an inspiration for all young women. Beyond her brilliant work, Holmes is living proof that you can achieve power and success by doing good for others. Free-spirited by nature and ambitious, she founded Theranos at 19, and dropped out of Stanford to pursue building the company with money she had saved for college. When questioned about whether or not dropping out was a wise choice, Fortune reports that Holmes told one professor, "I want to create a whole new technology, and one that is aimed at helping humanity at all levels, regardless of geography or ethnicity or age or gender." 
+
+Experts and professionals in the field agree that this is exactly what Holmes has done. Mark Laret, the CEO of UCSF Medical Center, has called Theranos "the true transformation of health care," and Dr. Delos M. Cosgrove, CEO and president of the Cleveland Clinic, called the company a "breakthrough" and representative of a "major change in how we deliver health care." 
+
+But Holmes' story is about more than women. It's also about more than health care. Billionaires in the U.S. are commonly considered greedy, and often blamed for building their fortune at the expense of others. Holmes offers an alternative narrative in which financial power and doing good don't have to be mutually exclusive. 
+
+Elizabeth Holmes is young, rich and beautiful — not to mention insanely smart.
+
+The 31-year-old founder and CEO of biotech firm Theranos is the world’s youngest self-made female billionaire, worth an estimated $4.5 billion, according to Forbes magazine.
+
+Last year, the Stanford dropout burst onto the tech scene with a novel approach to blood testing. Theranos promises a faster, cheaper and needle-free way to draw blood with just a prick of the finger.
+
+Holmes tops Forbes’ first-ever list of the nation’s top 50 most successful self-made women. Pop diva Beyonce, 33, is the second-youngest on the list, with an estimated net worth of $250 million.
+
+Also making the cut is Facebook COO Sheryl Sandberg, 45; fashion designer Tory Burch, 48; and Spanx inventor Sara Blakely, 44.
+
+Few women have seen their fortunes rise as fast as Holmes, who appears to be leading a lab-testing revolution and is drawing comparisons to late Apple visionary Steve Jobs.
+
+Privately held Theranos is valued at $9 billion after raising $400 million from investors. Holmes owns half of the company, putting her paper fortune at $4.5 billion.
+
+The Palo Alto-based company is generating even more buzz after striking a partnership with Walgreens to offer a range of diagnostic blood tests at thousands of its Wellness Centers.
+
+Theranos is not without its detractors, however. Critics say little is known about how the tests actually work and that it doesn’t extract enough blood to do all the tests it claims.
+
+
+Still, the promise of more affordable blood testing has propelled her fortune and her personal star. This year, Time magazine named her one of the top 100 most influential people.

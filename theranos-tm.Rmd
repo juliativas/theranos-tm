@@ -1,0 +1,114 @@
+---
+title: "Media Coverage of Theranos"
+author: "Julia B."
+date: "2/21/2022"
+output:  
+   prettydoc::html_pretty:
+    theme: architect
+    highlight: vignette
+   
+---
+
+This analysis is done for my MBA thesis on Theranos case and white-collar crime enablers. The goal of this exercise is to explore a corpus of articles covering Theranos before the fraud was uncovered.  
+Specific goals:
+
+- Identify top 10 most frequent words that appear in Theranos coverage
+
+- Check for indications that media coverage emphasized Elizabeth Holmes's gender
+
+We will be utilizing text mining capabilities of R. Specific libraries used: `tm` for text mining, `magrittr` for pipe operator, `knitr` to display tabular data. 
+```{r setup, include = FALSE}
+# Loading relevant libraries and text
+knitr::opts_chunk$set(echo = TRUE)
+library(wordcloud)
+library(RColorBrewer)
+library(magrittr)
+library(tm)
+library(knitr)
+library(dplyr)
+library(SemNetCleaner)
+
+```
+
+```{r read}
+# Reading the plaintext file with all publications and transforming into corpus
+media <- read.delim("text.txt")
+media <- c(unlist(media))
+docs <- Corpus(VectorSource(media))
+```
+
+
+Cleaning the loaded text before analyzing it: using `tm` library functions to remove numbers, punctuation, whitespace, standard 'meaningless' words and transform everything to lowercase.
+
+```{r clean, warning = FALSE, message = FALSE}
+# Performing standard cleaning steps for text mining preparation
+docs <- docs %>%
+  tm_map(removeNumbers) %>%
+  tm_map(removePunctuation) %>%
+  tm_map(stripWhitespace)
+docs <- tm_map(docs, content_transformer(tolower))
+docs <- tm_map(docs, removeWords, stopwords("english"))
+# Not all special characters were removed by removePunctuation
+# Writing our own function to remove everything that is not a word
+removeSpecialChars <- function(x) gsub("[^a-zA-Z ]","",x)
+docs <- tm_map(docs, removeSpecialChars)
+
+# Removing words that are not meaningful for the analysis
+my_custom_stopwords <- c("will", "also", "can", "use", "may", "take", "one", "two", 
+                         "among", "within", "three", "make", "used", "need", "since", 
+                         "made", "every", "said", "says", "get", "just", "told", "much", 
+                         "less", "many", "new", "like", "done", "now", "run", "say", "its",
+                         "it", "that", "sh", "lot", "four", "cant", "dont")
+docs <- tm_map(docs, removeWords, my_custom_stopwords)
+
+```
+
+Building matrix of word frequency in the corpus and displaying top 5 words.
+
+```{r matrix, warning = FALSE, message = FALSE}
+dtm <- TermDocumentMatrix(docs) 
+matrix <- as.matrix(dtm) 
+words <- sort(rowSums(matrix),decreasing=TRUE) 
+df <- data.frame(word = names(words),frequency=words)
+# We are not interested in words that show up less than 10 times
+df <- filter(df, frequency > 9)
+kable(head(df), row.names = FALSE)
+```
+We can see from the above matrix preview that one more cleaning task remains: __'test'__ and __'tests'__ should be seen as the same word. In order to achieve this, we need to singularize nouns and make an exception for wrongly handled last name "Holmes".
+
+```{r singul, warning = FALSE, message = FALSE}
+df <- rowwise(df) %>% mutate(singular = singularize(word)) 
+# Handling exceptions
+  df[2, 3] <- "holmes"
+  df[23, 3] <- "sample"
+kable(head(df), row.names = FALSE)
+
+```
+
+After we singularized words, some items appear on the list more than once. We need to identify them in order to sum up their frequencies and remove the duplicates.
+```{r occur, warning = FALSE, message = FALSE}
+ n_occur <- data.frame(table(df$singular)) 
+  n_occur <- filter(n_occur, Freq>1)
+  kable(n_occur, row.names = FALSE)
+```
+We summarize our dataframe grouping by singular in order to get rid of duplicates and add their frequencies together.
+```{r}
+df <- aggregate(df$frequency, by=list(item=df$singular), FUN=sum) 
+df <- arrange(df, desc(x))
+top10 <- head(df, 10)
+kable(top10, col.names = c("word", "frequency"), 
+      caption = "Top-10 Words in Theranos Media Coverage, by frequency")
+```
+Adding another form of visualizing the word frequency utilizing the `wordcloud2` library.
+
+```{r}
+set.seed(1234) # for reproducibility 
+wordcloud(words = df$item, freq = df$x,
+          random.order = FALSE, rot.per = 0.35,
+          colors=brewer.pal(8, "Set1"))
+```
+  
+  
+### Conclusion:
+Gender-relater words are not showing up among the most frequent items. There is no indication of bias towards emphasizing the founder's gender in Theranps media coverage. These results need to be compared to post-fraud coverage and trial coverage.
+
